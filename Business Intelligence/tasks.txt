@@ -1,4 +1,4 @@
-This file contains all tasks to resolve with a specific query
+This file contains all tasks to resolve (everyone is defined in italian) with a specific query
 
 1. Distribuzione del numero degli studenti iscritti nei vari appelli, suddivisa per anni e per corso di laurea
 2. Individuazione della Top-10 degli esami più difficili suddivisi per corso di studi
