@@ -1,0 +1,3 @@
+This file contains only one link of the infographic realized in the project using Tableau Public:
+
+1. https://public.tableau.com/profile/matteo4081#!/vizhome/sentiment_ToloTolo/overview
