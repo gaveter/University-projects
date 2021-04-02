@@ -1,0 +1,10 @@
+This file contains all links of the infographics realized in the project using both Flourish and Tableau Public
+
+1. query_1 -> https://preview.flourish.studio/1035478/FqQMXPEWb9QCLRO5AJFv9CRVNnZ87M54zmruBjinn9kjikziTigSQsVJJ851lzUc/
+2. query_2 -> https://public.tableau.com/profile/dario1552#!/vizhome/Query2_15759709992010/QUERY2
+3. query_3 -> https://preview.flourish.studio/1036057/yngVV6YLzmZtLhArzkGCSuXSs2Cee7HJys4zCSeQMKrolTK_2rv22FXAyTJ0lCZP/
+4a. query_4_top -> https://preview.flourish.studio/1034866/4PS-c73k9CeOIRtY-1X6Xge5fA91OcA0W5Qi5wkf1Ozy5Wg1GR8gCm19N3CoQyOh/
+4b. query_4_bottom -> https://preview.flourish.studio/1036398/fEJzxb12Jiy8RKZz5c7Cp-PodTNu3l6KhS34EEQQKtbN3a3HZSF_ZxPO91UayKWo/
+5. query_5 -> https://preview.flourish.studio/1036497/LSqIujFDuznqeJ06vGrYAa23B6X9nDOIVx23pSg-kOVoylNDZTFUlXyi5MGMBP5X/
+6. query_6 -> https://preview.flourish.studio/1036530/GggsiQIfHaRx_EqXMgvcDVl2CiBi89K_f3JgCghJAgvySR3Gv7dU-c5NkQngNlj5/
+7. query_7 -> https://public.tableau.com/profile/matteo4081#!/vizhome/task7_15759709514010/Dashboard1
