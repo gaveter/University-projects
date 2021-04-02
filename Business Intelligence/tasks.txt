@@ -1,0 +1,9 @@
+This file contains all tasks to resolve with a specific query
+
+1. Distribuzione del numero degli studenti iscritti nei vari appelli, suddivisa per anni e per corso di laurea
+2. Individuazione della Top-10 degli esami più difficili suddivisi per corso di studi
+3. Individuazione dei corsi di laurea ad elevato tasso di commitment, ovvero appelli di esami diversi ma del medesimo corso di laurea che si sono svolti nello stesso giorno
+4. Individuazione della Top-3 degli esami con media voti maggiore e minore rispettivamente, calcolati per ogni singolo corso di studi
+5. Calcolare la distribuzione degli studenti “fast&furious” percorso di studi, ovvero studenti con il rapporto “votazione media riportata negli esami superati” su “periodo di attività” maggiore
+6. Individuazione della Top-3 degli esami “trial&error”, ovvero esami che richiedono il maggior numero di tentativi prima del superamento
+7. Scoprire per ogni esame di ciascun corso di studi il mese con la maggior percentuale di promossi
